@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Vinh! 👋
 
 I am a student at the University of Information Technology in Ho Chi Minh City, passionate about software development and data engineering. My primary focus is on backend development, database management, and leveraging cloud technologies for scalable solutions.
 
