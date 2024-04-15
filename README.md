@@ -27,6 +27,8 @@ I am a student at the University of Information Technology in Ho Chi Minh City, 
 
 I have extensive experience working as a team leader in academic settings, leading projects across 8+ subjects. This experience has honed my collaboration, communication, and project management skills.
 
+### English Skill : IELTS 6.5 (2021)
+
 ## 🔭 Projects and Experiences
 
 - **Backend Development:** Developed RESTful APIs using ASP.NET Core Web API for various projects, ensuring scalability and performance.
