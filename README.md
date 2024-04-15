@@ -31,11 +31,11 @@ I have extensive experience working as a team leader in academic settings, leadi
 
 ## 🔭 Projects and Experiences
 
-- **Backend Development:** Developed RESTful APIs using ASP.NET Core Web API for various projects, ensuring scalability and performance.
+- **Backend Development:** Developed RESTful APIs using ASP.NET Core Web API for project, ensuring scalability and performance.
   
-- **Database Management:** Designed and optimized relational databases using SQL Server and MySQL for efficient data storage and retrieval.
+- **Database Management:** Designed and optimized relational databases using SQL Server for efficient data storage and retrieval.
   
-- **Cloud Deployment:** Deployed and managed applications on Azure using services like Azure App Services, Azure SQL Database, and Azure Storage.
+- **Cloud Deployment:** Deployed and managed applications on Azure using services like Azure App Services, Azure Container App, Azure SQL Database, and Azure Storage.
 
 ## 🌱 Current Learning Focus
 
