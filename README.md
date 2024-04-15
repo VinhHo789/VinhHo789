@@ -23,6 +23,10 @@ I am a student at the University of Information Technology in Ho Chi Minh City, 
 - **Data Warehouse and OLAP:** Understanding of designing and implementing data warehouses for business intelligence and OLAP (Online Analytical Processing).
 - **Data Mining:** Familiar with data mining techniques and tools for extracting insights from large datasets.
 
+### Team Leadership Experience
+
+I have extensive experience working as a team leader in academic settings, leading projects across 8+ subjects. This experience has honed my collaboration, communication, and project management skills.
+
 ## 🔭 Projects and Experiences
 
 - **Backend Development:** Developed RESTful APIs using ASP.NET Core Web API for various projects, ensuring scalability and performance.
@@ -37,10 +41,17 @@ I am a student at the University of Information Technology in Ho Chi Minh City, 
   
 - **Big Data and Analytics:** Deepening knowledge in big data technologies and data analytics tools for data-driven decision-making.
 
+- **Social Network Algorithms:** Learning algorithms and techniques used in social networks for user engagement and network analysis.
+
+- **Data Analysis:** Enhancing skills in data analysis to derive actionable insights from diverse datasets.
+  
+- **Machine Learning, Deep Learning, AI:** Studying machine learning algorithms, deep learning architectures, and artificial intelligence concepts for intelligent applications.
+  
+- **Project Management and Leadership:** Acquiring project management skills and leadership qualities to effectively lead and deliver successful software projects.
+- 
 ## 📫 Let's Connect
 
 I'm actively seeking opportunities to collaborate on exciting software development or data engineering projects. Feel free to connect with me on:
-
 
 I'm always open to discussions, mentorship, or exploring new ideas in the world of technology and software development. Let's create something amazing together!
 
